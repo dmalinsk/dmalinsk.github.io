@@ -13,6 +13,6 @@ My research focuses mostly on causal inference: developing statistical methods a
 
 Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I completed my PhD at Carnegie Mellon University in 2017 and earned my BA from Columbia University in 2011.
 
-My CV is available here.
+My CV is available here. \[Insert link\]
 
 Contact: d.malinsky {at} columbia.edu
