@@ -1,13 +1,11 @@
 ---
 image: media/headshot2020_3.jpg
-2toc: false
+toc: false
 about: 
-  template: jolla
-  image-shape: round
+  template: trestles
+  image-shape: rectangle
   image-width: 14em
 ---
-
-This website is under construction.
 
 I'm an Assistant Professor of Biostatistics in the Mailman School of Public Health at Columbia University.
 

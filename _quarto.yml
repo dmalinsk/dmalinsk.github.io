@@ -5,11 +5,14 @@ project:
 website:
   title: "Daniel Malinsky"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - research.qmd
-
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2024, Daniel Malinsky
+  
 format:
   html:
     theme: simplex
