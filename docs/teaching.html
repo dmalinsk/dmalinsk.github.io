@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Daniel Malinsky</title>
+<title>Teaching – Daniel Malinsky</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -88,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -96,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
@@ -110,24 +111,38 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="media/headshot2020_3.jpg" class="about-image
-  round " style="height: 14em; width: 14em;">
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I’m an Assistant Professor of Biostatistics in the Mailman School of Public Health at Columbia University.</p>
-<p>My research focuses mostly on causal inference: developing statistical methods and machine learning tools to support inference about the consequences of (e.g) medical decisions, environmental &amp; social exposures, and policies. Current research topics include structure learning (a.k.a. causal discovery or causal model selection), semiparametric inference, longitudinal analysis, and missing data. I also work on algorithmic fairness: understanding and counteracting the biases introduced by data science tools deployed in socially-impactful settings, especially healthcare. Finally, I have interests in the philosophy of science and the foundations of statistics.</p>
-<p>Previously, I was a Postdoctoral Fellow at Johns Hopkins University. I completed my PhD at Carnegie Mellon University in 2017 and earned my BA from Columbia University in 2011.</p>
-<p>My CV is available <a href="https://www.dropbox.com/scl/fi/j3etrr1k174birniihrdk/cv_Malinsky.pdf?rlkey=pmfce4krvnxsw67mpkqzicn8l&amp;st=49sj2p44&amp;dl=0">here</a>.</p>
-<p>Contact: d.malinsky {at} columbia.edu</p>
+<main class="content column-page" id="quarto-document-content">
 
-
-</main></div>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Teaching</h1>
 </div>
- <!-- /main -->
+
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>I teach a course at Columbia called “Graphical Models for Complex Health Data.” You can browse the syllabus here.<br>
+<br>
+Slides from the “Causality Bootcamp” at the Simons Institute can be found here and here. Videos of each lecture: <a href="https://www.youtube.com/watch?v=egqVGs1TXlI">1</a>, <a href="https://www.youtube.com/watch?v=fvQJ9gelUg0">2</a>, <a href="https://www.youtube.com/watch?v=thWUcWKwtXA">3</a>, <a href="https://www.youtube.com/watch?v=JSkPi22drQI">4</a>.</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -148,6 +163,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

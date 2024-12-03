@@ -2,5 +2,100 @@
 title: "Research"
 ---
 
-Content xyz
----
+For up-to-date publication list: \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=59EzUoIAAAAJ&view_op=list_works&sortby=pubdate)\]
+
+\
+Post-selection Inference for Causal Effects After Causal Discovery\
+T-H. Chang, Z. Guo, and D. Malinsky\
+Submitted.\
+\[[arXiv](https://arxiv.org/abs/2405.06763)\]\
+\
+A Cautious Approach to Constraint-Based Causal Model Selection\
+D. Malinsky\
+Submitted.\
+\[[arXiv](https://arxiv.org/abs/2404.18232)\]\
+\
+Mediated Probabilities of Causation\
+M. Rubenstein, M. Cuellar, and D. Malinsky\
+Submitted.\
+\[[arXiv](https://arxiv.org/abs/2404.07397)\]\
+\
+Explaining the Behavior of Black-Box Prediction Algorithms with Causal Learning\
+N. Sani, D. Malinsky, and I. Shpitser\
+Submitted.\
+\[[arXiv](https://arxiv.org/abs/2006.02482)\]\
+\
+Causal Inference with Outcome-Dependent Missingness and Self-Censoring\
+J. M. Chen, D. Malinsky, and R. Bhattacharya\
+Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023.\
+\[[paper](https://proceedings.mlr.press/v216/chen23f.html)\]\
+\
+Causal Determinants of Postoperative Length of Stay in Cardiac Surgery Using Causal Graphical Learning\
+J. J. R. Lee, R. Srinivasan, C. S. Ong, D. Alejo, S. Schena, I. Shpitser, M. Sussman, G. J. R. Whitman, and D. Malinsky\
+The Journal of Thoracic and Cardiovascular Surgery 166(5): e446-e462, 2023.\
+\[[paper](https://www.sciencedirect.com/science/article/pii/S002252232200900X)\]\
+\
+Optimal Training of Fair Predictive Models\
+R. Nabi, D. Malinsky, and I. Shpitser \
+Proceedings of the First Conference on Causal Learning and Reasoning (CLeaR), 2022.\
+\[[paper](https://proceedings.mlr.press/v177/nabi22a/nabi22a.pdf)\]\
+\
+Semiparametric Inference for Non-monotone Missing-Not-at-Random Data: the No Self-Censoring Model\
+D. Malinsky, I. Shpitser, and E. J. Tchetgen Tchetgen  \
+Journal of the American Statistical Association, 117(539): 1415-1423, 2022.\
+\[[paper](https://www.tandfonline.com/eprint/5SQAKVNJD8379CBNKUUT/full?target=10.1080/01621459.2020.1862669)\] \[[arXiv](https://arxiv.org/pdf/1909.01848.pdf)\] \[[erratum](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2016421)\]\
+\
+Differentiable Causal Structure Learning Under Unmeasured Confounding\
+R. Bhattacharya, T. Nagarajan, D. Malinsky, and I. Shpitser  \
+Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.\
+\[[paper](http://proceedings.mlr.press/v130/bhattacharya21a/bhattacharya21a.pdf)\] \[[supplement](http://proceedings.mlr.press/v130/bhattacharya21a/bhattacharya21a-supp.pdf)\]\
+\
+algcomparison: Comparing the Performance of Graphical Structure Learning Algorithms with TETRAD\
+J. D. Ramsey, D. Malinsky, and K. V. Bui\
+Journal of Machine Learning Research 21(238): 1-6, 2020.\
+\[[paper](https://jmlr.org/papers/volume21/19-773/19-773.pdf)\] \[[code](https://github.com/bd2kccd/causal-compare)\]\
+\
+Causal Inference Under Interference and Network Uncertainty\
+R. Bhattacharya, D. Malinsky, and I. Shpitser\
+Proceedings of the 35th Conference on Uncertainty in Artificial Intelligence (UAI), 2019.\
+\[[paper](http://auai.org/uai2019/proceedings/papers/372.pdf)\] \[[supplement](http://auai.org/uai2019/proceedings/supplements/372_supplement.pdf)\]\
+\
+Learning Optimal Fair Policies\
+R. Nabi, D. Malinsky, and I. Shpitser \
+Proceedings of the 36th International Conference on Machine Learning (ICML), 2019. \
+\[[paper](http://proceedings.mlr.press/v97/nabi19a/nabi19a.pdf)\] \[[supplement](http://proceedings.mlr.press/v97/nabi19a/nabi19a-supp.pdf)\] \
+\
+A Potential Outcomes Calculus for Identifying Conditional Path-Specific Effects \
+D. Malinsky, I. Shpitser, and T. S. Richardson \
+Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2019.\
+\[[paper](http://proceedings.mlr.press/v89/malinsky19b/malinsky19b.pdf)\] \[[supplement](http://proceedings.mlr.press/v89/malinsky19b/malinsky19b-supp.pdf)\]\
+\
+Learning the Structure of a Nonstationary Vector Autoregression\
+D. Malinsky and P. Spirtes \
+Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2019.\
+\[[paper](http://proceedings.mlr.press/v89/malinsky19a/malinsky19a.pdf)\] \[[supplement](http://proceedings.mlr.press/v89/malinsky19a/malinsky19a-supp.pdf)\]\
+\
+Causal Learning for Partially Observed Stochastic Dynamical Systems\
+S. W. Mogensen, D. Malinsky, and N. R. Hansen\
+Proceedings of the 34th Conference on Uncertainty in Artificial Intelligence (UAI), 2018.\
+\[[paper](http://auai.org/uai2018/proceedings/papers/142.pdf)\] \[[supplement](http://auai.org/uai2018/proceedings/supplements/Supplementary-Paper142.pdf)\]\
+\
+Causal Structure Learning from Multivariate Time Series in Settings with Unmeasured Confounding\
+D. Malinsky and P. Spirtes \
+Proceedings of the 2018 ACM SIGKDD Workshop on Causal Discovery (KDD-CD), 2018. \
+\[[paper](http://proceedings.mlr.press/v92/malinsky18a/malinsky18a.pdf)\] \[[code](https://github.com/cmu-phil/tetrad)\]\
+\
+Intervening on Structure\
+D. Malinsky\
+Synthese 135(5): 2295-2312, 2018\
+\[[paper](https://www.readcube.com/articles/10.1007%2Fs11229-017-1341-z?author_access_token=0NJ0O5C55N0oZWPvah08Zfe4RwlQNchNByi7wbcMAY7rJV_-o6WWkr-AiEgG_GJ3gdZBApBCeUWD8lU0xfiuB5yx3zZpN8hzDDzLTuyz_LCecaOT70p7Yut680JazXUeH475-SRmLP-r6ExMwynRgQ==)\]\
+\
+Estimating Bounds on Causal Effects in High-Dimensional and Possibly Confounded Systems\
+D. Malinsky and P. Spirtes\
+International Journal of Approximate Reasoning 88: 371-384, 2017.\
+\[[paper](http://www.dmalinsky.com/uploads/4/9/9/3/49933045/ijar17_published.pdf)\] \[[code](https://github.com/dmalinsk/lv-ida)\]\
+\
+Causally Interpreting Intersectionality Theory\
+L. K. Bright, D. Malinsky, and M. Thompson\
+Philosophy of Science 83(1): 60-81, 2016.\
+\[[paper](http://www.dmalinsky.com/uploads/4/9/9/3/49933045/philsci16_published.pdf)\]

@@ -1,0 +1,7 @@
+---
+title: "Teaching"
+---
+
+I teach a course at Columbia called "Graphical Models for Complex Health Data." You can browse the syllabus here.\
+\
+Slides from the "Causality Bootcamp" at the Simons Institute can be found here and here. Videos of each lecture: [1](https://www.youtube.com/watch?v=egqVGs1TXlI), [2](https://www.youtube.com/watch?v=fvQJ9gelUg0), [3](https://www.youtube.com/watch?v=thWUcWKwtXA), [4](https://www.youtube.com/watch?v=JSkPi22drQI).
