@@ -2,6 +2,8 @@
 title: "Teaching"
 ---
 
-I teach a course at Columbia called "Graphical Models for Complex Health Data." You can browse the syllabus [here](https://www.dropbox.com/scl/fi/tbs5bhcajv1el6688j889/syllabus2024.pdf?rlkey=njjsvvx70ayzem5tyt4ppzhty&st=qqtvtxei&dl=0){target="_blank"}.\
+"Graphical Models for Complex Health Data" (2020-2024) at Columbia University\
+\[[syllabus](https://www.dropbox.com/scl/fi/tbs5bhcajv1el6688j889/syllabus2024.pdf?rlkey=njjsvvx70ayzem5tyt4ppzhty&st=qqtvtxei&dl=0){target="_blank"}\]\
 \
-Slides from the "Causality Bootcamp" at the Simons Institute can be found [here](https://www.dropbox.com/scl/fi/ruye5bi4021bbqprpb54o/Simons_part1.pdf?rlkey=ll37614d2xshzytbmpne65wkv&st=y3fseaqo&dl=0){target="_blank"} and [here](https://www.dropbox.com/scl/fi/hs0p26menxoomanbi0wuj/Simons_part2.pdf?rlkey=ytji4ut2hln6rjfaaykvlsff4&st=evoal5gl&dl=0){target="_blank"}. Videos of each lecture: [1](https://www.youtube.com/watch?v=egqVGs1TXlI){target="_blank"}, [2](https://www.youtube.com/watch?v=fvQJ9gelUg0){target="_blank"}, [3](https://www.youtube.com/watch?v=thWUcWKwtXA){target="_blank"}, [4](https://www.youtube.com/watch?v=JSkPi22drQI){target="_blank"}.
+"Causality Bootcamp" (2022) at the Simons Institute\
+lecture slides: \[[part 1](https://www.dropbox.com/scl/fi/ruye5bi4021bbqprpb54o/Simons_part1.pdf?rlkey=ll37614d2xshzytbmpne65wkv&st=y3fseaqo&dl=0){target="_blank"}\] and \[[part 2](https://www.dropbox.com/scl/fi/hs0p26menxoomanbi0wuj/Simons_part2.pdf?rlkey=ytji4ut2hln6rjfaaykvlsff4&st=evoal5gl&dl=0){target="_blank"}\] videos: \[[1](https://www.youtube.com/watch?v=egqVGs1TXlI){target="_blank"}\], \[[2](https://www.youtube.com/watch?v=fvQJ9gelUg0){target="_blank"}\], \[[3](https://www.youtube.com/watch?v=thWUcWKwtXA){target="_blank"}\], \[[4](https://www.youtube.com/watch?v=JSkPi22drQI){target="_blank"}\]
