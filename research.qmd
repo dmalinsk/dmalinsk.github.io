@@ -23,7 +23,7 @@ Submitted.\
 
 Explaining the Behavior of Black-Box Prediction Algorithms with Causal Learning\
 N. Sani, D. Malinsky, and I. Shpitser\
-Submitted.\
+Transactions on Machine Learning Research (forthcoming).\
 \[[arXiv](https://arxiv.org/abs/2006.02482){target="_blank"}\]
 
 Mediated Probabilities of Causation\
