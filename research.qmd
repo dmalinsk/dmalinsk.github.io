@@ -15,18 +15,22 @@ A Cautious Approach to Constraint-Based Causal Model Selection\
 D. Malinsky\
 Submitted.\
 \[[arXiv](https://arxiv.org/abs/2404.18232){target="_blank"}\]\
+\
 Quantile Graph Discovery through QuACC: Quantile Association via Conditional Concordance\
 Z. Khan, D. Malinsky, Martin Picard, Alan A. Cohen, Columbia SOH Group, Ying Wei\
 Submitted.\
 \[[arXiv](https://arxiv.org/abs/2411.17033){target="_blank"}\]\
+\
 Explaining the Behavior of Black-Box Prediction Algorithms with Causal Learning\
 N. Sani, D. Malinsky, and I. Shpitser\
 Transactions on Machine Learning Research, 2025.\
 \[[paper](https://openreview.net/pdf?id=ZrqLpXbXvA){target="_blank"}\]\
+\
 Mediated Probabilities of Causation\
 M. Rubenstein, M. Cuellar, and D. Malinsky\
 Journal of Causal Inference, 2025.\
 \[[paper](https://www.degruyterbrill.com/document/doi/10.1515/jci-2024-0019/html){target="_blank"}\]\
+\
 Causal Inference with Outcome-Dependent Missingness and Self-Censoring\
 J. M. Chen, D. Malinsky, and R. Bhattacharya\
 Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023.\
