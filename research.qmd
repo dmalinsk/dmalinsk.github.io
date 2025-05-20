@@ -15,22 +15,18 @@ A Cautious Approach to Constraint-Based Causal Model Selection\
 D. Malinsky\
 Submitted.\
 \[[arXiv](https://arxiv.org/abs/2404.18232){target="_blank"}\]\
-
 Quantile Graph Discovery through QuACC: Quantile Association via Conditional Concordance\
 Z. Khan, D. Malinsky, Martin Picard, Alan A. Cohen, Columbia SOH Group, Ying Wei\
 Submitted.\
 \[[arXiv](https://arxiv.org/abs/2411.17033){target="_blank"}\]\
-
 Explaining the Behavior of Black-Box Prediction Algorithms with Causal Learning\
 N. Sani, D. Malinsky, and I. Shpitser\
-Transactions on Machine Learning Research (forthcoming).\
-\[[arXiv](https://arxiv.org/abs/2006.02482){target="_blank"}\]
-
+Transactions on Machine Learning Research, 2025.\
+\[[paper](https://openreview.net/pdf?id=ZrqLpXbXvA){target="_blank"}\]\
 Mediated Probabilities of Causation\
 M. Rubenstein, M. Cuellar, and D. Malinsky\
-Journal of Causal Inference (forthcoming).\
-\[[arXiv](https://arxiv.org/abs/2404.07397){target="_blank"}\]
-
+Journal of Causal Inference, 2025.\
+\[[paper](https://www.degruyterbrill.com/document/doi/10.1515/jci-2024-0019/html){target="_blank"}\]\
 Causal Inference with Outcome-Dependent Missingness and Self-Censoring\
 J. M. Chen, D. Malinsky, and R. Bhattacharya\
 Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI), 2023.\
@@ -38,12 +34,12 @@ Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UA
 \
 Causal Determinants of Postoperative Length of Stay in Cardiac Surgery Using Causal Graphical Learning\
 J. J. R. Lee, R. Srinivasan, C. S. Ong, D. Alejo, S. Schena, I. Shpitser, M. Sussman, G. J. R. Whitman, and D. Malinsky\
-The Journal of Thoracic and Cardiovascular Surgery 166(5): e446-e462, 2023.\
+The Journal of Thoracic and Cardiovascular Surgery, 2023.\
 \[[paper](https://www.sciencedirect.com/science/article/pii/S002252232200900X){target="_blank"}\]\
 \
 Semiparametric Inference for Non-monotone Missing-Not-at-Random Data: the No Self-Censoring Model\
 D. Malinsky, I. Shpitser, and E. J. Tchetgen Tchetgen  \
-Journal of the American Statistical Association, 117(539): 1415-1423, 2022.\
+Journal of the American Statistical Association, 2022.\
 \[[paper](https://www.tandfonline.com/eprint/5SQAKVNJD8379CBNKUUT/full?target=10.1080/01621459.2020.1862669){target="_blank"}\] \[[arXiv](https://arxiv.org/pdf/1909.01848.pdf){target="_blank"}\] \[[erratum](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.2016421){target="_blank"}\]\
 \
 Differentiable Causal Structure Learning Under Unmeasured Confounding\
