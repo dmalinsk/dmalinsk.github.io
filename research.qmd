@@ -8,7 +8,7 @@ For up-to-date publication list: \[[Google Scholar](https://scholar.google.com/c
 \
 Post-selection Inference for Causal Effects After Causal Discovery\
 T-H. Chang, Z. Guo, and D. Malinsky\
-Submitted.\
+Biometrika, forthcoming.\
 \[[arXiv](https://arxiv.org/abs/2405.06763){target="_blank"}\]\
 \
 A Cautious Approach to Constraint-Based Causal Model Selection\

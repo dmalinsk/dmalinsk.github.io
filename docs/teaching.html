@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-419cba06e90a5c83fc92acd08140e2fd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -136,8 +136,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>“Graphical Models for Complex Health Data” (2020-2024) at Columbia University<br>
-[<a href="https://www.dropbox.com/scl/fi/tbs5bhcajv1el6688j889/syllabus2024.pdf?rlkey=njjsvvx70ayzem5tyt4ppzhty&amp;st=qqtvtxei&amp;dl=0" target="_blank">syllabus</a>]<br>
+<p>“Graphical Models for Complex Health Data” (2020-2025) at Columbia University<br>
+[<a href="https://www.dropbox.com/scl/fi/z4qx4bkr79j5hi7f8iot6/syllabus2025.pdf?rlkey=rd2u9d42k1xd9695vpx79avsh&amp;dl=0" target="_blank">syllabus</a>]<br>
 <br>
 “Causality Bootcamp” (2022) at the Simons Institute<br>
 lecture slides: [<a href="https://www.dropbox.com/scl/fi/ruye5bi4021bbqprpb54o/Simons_part1.pdf?rlkey=ll37614d2xshzytbmpne65wkv&amp;st=y3fseaqo&amp;dl=0" target="_blank">part 1</a>] and [<a href="https://www.dropbox.com/scl/fi/hs0p26menxoomanbi0wuj/Simons_part2.pdf?rlkey=ytji4ut2hln6rjfaaykvlsff4&amp;st=evoal5gl&amp;dl=0" target="_blank">part 2</a>] videos: [<a href="https://www.youtube.com/watch?v=egqVGs1TXlI" target="_blank">1</a>], [<a href="https://www.youtube.com/watch?v=fvQJ9gelUg0" target="_blank">2</a>], [<a href="https://www.youtube.com/watch?v=thWUcWKwtXA" target="_blank">3</a>], [<a href="https://www.youtube.com/watch?v=JSkPi22drQI" target="_blank">4</a>]</p>
@@ -227,8 +227,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -339,7 +337,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
