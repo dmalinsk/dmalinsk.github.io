@@ -16,10 +16,10 @@ A. Shahu, W. Xia, Y. Wei, and D. Malinsky\
 Submitted.\
 \[[arXiv](https://arxiv.org/abs/2508.11131){target="_blank"}\]\
 \
-A Health Equity Perspective on Data-Driven Treatment Decisions in Cardiovascular Care: Risk Assessments versus Individualized Treatment Rules\
+Health Equity Perspective on Data-Driven Treatment Decisions in Cardiovascular Care: Risk Assessments versus Individualized Treatment Rules\
 S. Sirota, N.B. Allen, R.G. Barr, and D. Malinsky\
-Submitted.\
-\[[medrXiv](https://www.medrxiv.org/content/10.1101/2025.09.08.25335035v1){target="_blank"}\]\
+Journal of the American Heart Association, 2026.\
+\[[paper](https://www.ahajournals.org/doi/full/10.1161/JAHA.125.045048){target="_blank"}\]\
 \
 Mediation Analysis in the Presence of Sample Selection Bias with an Application to Disparities in Liver Transplantation Listing\
 Z. Khan, L. Sequeira, A.T. Strauss, V. Jain, J. Dixon, E. Moughames, T. Vong, and D. Malinsky\
@@ -29,7 +29,7 @@ Submitted.\
 Post-selection Inference for Causal Effects After Causal Discovery\
 T-H. Chang, Z. Guo, and D. Malinsky\
 Biometrika, 2025.\
-\[[paper](https://doi.org/10.1093/biomet/asaf073){target="_blank"}\] [[arXiv](https://arxiv.org/abs/2405.06763){target="_blank"}\]\
+\[[paper](https://doi.org/10.1093/biomet/asaf073){target="_blank"}\] \[[arXiv](https://arxiv.org/abs/2405.06763){target="_blank"}\]\
 \
 A Cautious Approach to Constraint-Based Causal Model Selection\
 D. Malinsky\
