@@ -8,7 +8,7 @@ For up-to-date publication list: \[[Google Scholar](https://scholar.google.com/c
 
 Exploiting Independence Constraints for Efficient Estimation of Bounds on Causal Effects in the Presence of Unmeasured Confounding\
 T-H. Chang, C. H. Miles, I. Shpitser, E. J. Tchetgen Tchetgen, and D. Malinsky\
-Submitted, 2026.\
+Submitted.\
 \[[arXiv](https://arxiv.org/abs/2605.11515){target="_blank"}\]\
 \
 Marginal Structural Models for Quantifying the Causal Effects of Exposure to Ambient Air Pollution on Progression of CT Emphysema in the MESA Lung and MESA Air Studies\
