@@ -18,8 +18,8 @@ American Journal of Epidemiology, 2026.\
 \
 Estimating Effects of Longitudinal Modified Treatment Policies (LMTPs) on Rates of Change in Health Outcomes\
 A. Shahu, W. Xia, Y. Wei, and D. Malinsky\
-Statistics in Medicine, 2026 (forthcoming).\
-\[[arXiv](https://arxiv.org/abs/2508.11131){target="_blank"}\]\
+Statistics in Medicine, 2026.\
+\[[paper](https://doi.org/10.1002/sim.70604){target="_blank"}\] \[[arXiv](https://arxiv.org/abs/2508.11131){target="_blank"}\]\
 \
 Health Equity Perspective on Data-Driven Treatment Decisions in Cardiovascular Care: Risk Assessments versus Individualized Treatment Rules\
 S. Sirota, N.B. Allen, R.G. Barr, and D. Malinsky\
@@ -38,7 +38,7 @@ Biometrika, 2026.\
 \
 A Cautious Approach to Constraint-Based Causal Model Selection\
 D. Malinsky\
-Submitted.\
+Statistical Science, 2026 (forthcoming).\
 \[[arXiv](https://arxiv.org/abs/2404.18232){target="_blank"}\]\
 \
 Quantile Graph Discovery through QuACC: Quantile Association via Conditional Concordance\
