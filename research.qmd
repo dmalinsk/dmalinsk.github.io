@@ -6,6 +6,11 @@ For up-to-date publication list: \[[Google Scholar](https://scholar.google.com/c
 
 *Selected Drafts and Publications*\
 
+On Interpreting the Causal Effects of Race\
+D. Malinsky and L. K. Bright\
+Journal of Causal Inference, 2026.\
+\[[paper](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0062/html){target="_blank"}\]\
+\
 Exploiting Independence Constraints for Efficient Estimation of Bounds on Causal Effects in the Presence of Unmeasured Confounding\
 T-H. Chang, C. H. Miles, I. Shpitser, E. J. Tchetgen Tchetgen, and D. Malinsky\
 Submitted.\
